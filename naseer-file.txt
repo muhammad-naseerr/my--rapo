@@ -1,3 +1,5 @@
 my first file in github
 and i am showings in git 
 ok
+i write a new line
+in code edditer i want to show in git
