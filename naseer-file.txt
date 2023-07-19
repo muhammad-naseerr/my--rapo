@@ -1,2 +1,3 @@
 my first file in github
-and i am showin in git file
+and i am showings in git 
+ok
